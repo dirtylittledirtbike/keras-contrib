@@ -2,7 +2,7 @@ from __future__ import absolute_import
 from __future__ import division
 
 import warnings
-import tensrflow as tf
+import tensorflow as tf
 
 from keras import backend as K
 from keras import activations
